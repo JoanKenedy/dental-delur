@@ -2,9 +2,11 @@ import Promo1 from "../../assets/promo-4.jpg";
 import Promo2 from "../../assets/promo-2.jpg";
 import Promo3 from "../../assets/promo-3.jpg";
 import Promo4 from "../../assets/promo-1.jpg";
+import Promo5 from "../../assets/promo-5.jpg";
+import Promo6 from "../../assets/promo-6.jpg";
 
 export const Promocion = () => {
-  const imagenesPromo = [Promo1, Promo2, Promo3, Promo4];
+  const imagenesPromo = [Promo1, Promo2, Promo3, Promo4, Promo5, Promo6];
 
   return (
     <>
